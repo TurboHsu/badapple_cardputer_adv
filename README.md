@@ -4,6 +4,13 @@ My friend gift me a M5Stack Cardputer ADV, which have a screen and a buzzer. So 
 
 ![Working Sample](assets/photo_2026-02-06_19-04-24.jpg)
 
+## Controls
+
+- `↑(;)` / `↓(.)`: Menu navigation
+- `←(,)` / `→(/)`: Adjust value (e.g. volume)
+- `0-9/Del/Enter`: Numeric input
+- `Enter`: Confirm
+
 ## Requirements
 
 For running the firmware:
